@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/*
+Theme Name: Mrcoffee Child
+Theme URI: https://mrcoffee.just-themes.com/
+Author: Just-themes
+Author URI: https://just-themes.com/
+Description: Mrcoffee Child Theme. Mr Coffee – is an stylish WordPress Theme created specially for coffee markets, online coffee stores, cake and desserts stores, tea markets, coffee shops and other.
+Version: 1.0
+Template: mrcoffee
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Tags: food-and-drink, e-commerce, blog, full-width-template, theme-options, one-column, two-columns, left-sidebar, right-sidebar, custom-logo
+Text Domain: mrcoffee
+*/
+
+/* Your any css */
+a {
+    color: #f7992e;
+}
+.subscribe .bottom-title {
+    font-size: 32px;
+}
+.mtb-50 {
+	margin-top: 50px !important;
+	margin-bottom: 50px !important;
+}
+.top-bar-contacts li a {
+	color:#000;
+}
+.main-menu > li.active > a, .main-menu > li.current_page_item > a, .main-menu > li.current-menu-item > a, .main-menu > li > a:hover,.main-menu > li:hover > a {
+     color: #f7992e;
+}
+.affix {
+	background:rgba(0,0,0,1);
+}
+.main-menu .third-level, .main-menu .sub-menu .sub-menu {
+    background: #000;
+}
+.main-menu .sub-menu > li:hover, .main-menu .third-level > li:hover, .main-menu .sub-menu .sub-menu > li:hover {
+    background: #dcdcdc;
+}
+.main-menu .third-level > li > a, .main-menu .sub-menu .sub-menu > li > a {
+    color: #dcdcdc;
+}
+.main-menu .sub-menu > li > a, .main-menu .sub-menu > li > a:hover, .main-menu .third-level > li > a:hover, .main-menu .sub-menu .sub-menu > li > a:hover {
+    color: #000;
+}
+/*header*/
+.top-nav.inner-page{
+	    background: #1a1a1a;
+}
+.top-bar{
+	    background: #dcdcdc;
+}
+.page-head h1 {
+    color: #f7992e;
+}
+.page-head .breadcrumb{
+	    color: #f7992e;
+}
+h2 {
+	color: #000;
+}
+h2:before {
+	background: #f7992e;
+}
+.wp_teamshowcase_grid.design-3 .team-grid:hover > .member-main-info {
+    background: #f7992e;
+    color: #fff;
+}
+.member-main-info {
+    background: #000;
+    color: #fff;
+}
+.subs-form input[type='submit'], .subs-form .es_submit_button, .subs-form-wrap form input[type='submit'], .subs-form-wrap form .es_submit_button {  
+    background: #000;
+    color: #f7992e;
+}
+/* footer*/
+.top-footer {
+    background: #292929;
+}
+.bottom-footer {
+    background: #1a1a1a;
+}
+.footer-about .title, .footer-about .widget-title, .footer .title, .footer .widget-title{
+	    color: #fff;
+}
+.footer .footer-contacts li i{
+    color: #f7992e;	   
+}
+.social li a:hover {
+    background: #f7992e;
+}
+
+.wp_teamshowcase_grid.design-3 .member-name {
+    font-size: 19px;
+}
+.top-title {
+	font-size:16px !important;
+}
+.teamshowcase-hover-icon .fa-plus-circle:before {
+    content: "\f002" !important;
+}
+span.wup-price-label {
+    font-size: 18px;
+    color: orange;
+    margin-bottom: 10px;
+    display: block;
+}
+.top-nav .top-right {
+    display: none;
+}
+.wp_teamshowcase_grid.design-1 .member-content p {
+    text-align: justify;
+    margin: 0px;
+}
+p {
+    text-align: justify;
+}
+h5.name {
+    text-transform: uppercase;
+}
+.special{
+	color: #f7992e;
+}
+
+.test{
+	
+}
