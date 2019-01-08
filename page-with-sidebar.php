@@ -22,7 +22,7 @@ get_header(); ?>
 				<!-- PAGE CONTENT -->
 				<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 					<!-- .entry-content -->
-					<div class="entry-content container loki">
+					<div class="entry-content container">
 						<div class="row">
 
 			            <?php /** Display Page Content*/
