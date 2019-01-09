@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/woocommerce.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="archive-product.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="archive-product.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/woocommerce/archive-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="woocommerce.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/woocommerce.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            <state relative-caret-position="460">
+              <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1546975091590</updated>
       <workItem from="1546975094734" duration="3855000" />
-      <workItem from="1547019546410" duration="1009000" />
+      <workItem from="1547019546410" duration="1658000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1546980442019</created>
@@ -152,11 +143,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547020719189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload woocommerce.php file">
+      <created>1547020831929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547020831929</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4864000" />
+    <option name="totallyTimeSpent" value="5513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -193,7 +191,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="update changes" />
     <MESSAGE value="create woocommerce.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="create woocommerce.php" />
+    <MESSAGE value="upload woocommerce.php file" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload woocommerce.php file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -236,14 +235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/woocommerce/archive-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="108" column="14" lean-forward="true" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -256,6 +247,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
           <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/archive-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
           <folding />
         </state>
       </provider>
