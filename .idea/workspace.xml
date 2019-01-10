@@ -57,8 +57,8 @@
       <file leaf-file-name="single-product.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/woocommerce/single-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+            <state relative-caret-position="238">
+              <caret line="35" column="51" lean-forward="true" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -203,7 +203,7 @@
       <updated>1546975091590</updated>
       <workItem from="1546975094734" duration="3855000" />
       <workItem from="1547019546410" duration="4010000" />
-      <workItem from="1547096884943" duration="4931000" />
+      <workItem from="1547096884943" duration="5025000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1546980442019</created>
@@ -310,11 +310,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547120990621</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update single product margin top and bottom">
+      <created>1547121522167</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1547121522167</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12796000" />
+    <option name="totallyTimeSpent" value="12890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -363,7 +370,8 @@
     <MESSAGE value="show 3 columns in a row" />
     <MESSAGE value="customize woocommerce archive page" />
     <MESSAGE value="update new defined css" />
-    <option name="LAST_COMMIT_MESSAGE" value="update new defined css" />
+    <MESSAGE value="update single product margin top and bottom" />
+    <option name="LAST_COMMIT_MESSAGE" value="update single product margin top and bottom" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -552,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/woocommerce/single-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        <state relative-caret-position="238">
+          <caret line="35" column="51" lean-forward="true" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
           <folding />
         </state>
       </provider>
