@@ -45,6 +45,8 @@ switch ( $template ) {
 		echo '<div id="primary" class="content-area twentysixteen"><main id="main" class="site-main" role="main">';
 		break;
 	default :
-		echo '<div id="primary" class="content-area row"><main id="main" class="site-main col-md-8" role="main">';
+		echo '<div id="primary" class="content-area row">';
+		echo '<div class="container"><div class="row">';
+		echo '<main id="main" class="site-main col-md-8" role="main">';
 		break;
 }

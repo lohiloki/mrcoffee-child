@@ -4,6 +4,7 @@
     <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/woocommerce/global/wrapper-end.php" afterPath="$PROJECT_DIR$/woocommerce/global/wrapper-end.php" />
+      <change beforePath="$PROJECT_DIR$/woocommerce/global/wrapper-start.php" afterPath="$PROJECT_DIR$/woocommerce/global/wrapper-start.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="wrapper-start.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-start.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="47" column="98" lean-forward="false" selection-start-line="47" selection-start-column="98" selection-end-line="47" selection-end-column="98" />
+            <state relative-caret-position="466">
+              <caret line="48" column="56" lean-forward="false" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -37,8 +38,8 @@
       <file leaf-file-name="wrapper-end.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-end.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="53" column="43" lean-forward="false" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+            <state relative-caret-position="510">
+              <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -73,8 +74,8 @@
         <option value="$PROJECT_DIR$/woocommerce.php" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/woocommerce/global/wrapper-start.php" />
         <option value="$PROJECT_DIR$/woocommerce/archive-product.php" />
+        <option value="$PROJECT_DIR$/woocommerce/global/wrapper-start.php" />
         <option value="$PROJECT_DIR$/woocommerce/global/wrapper-end.php" />
       </list>
     </option>
@@ -169,7 +170,7 @@
       <updated>1546975091590</updated>
       <workItem from="1546975094734" duration="3855000" />
       <workItem from="1547019546410" duration="4010000" />
-      <workItem from="1547096884943" duration="3470000" />
+      <workItem from="1547096884943" duration="3609000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1546980442019</created>
@@ -234,11 +235,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547119853886</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="check woocommerce sidebar now">
+      <created>1547120055004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547120055004</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11335000" />
+    <option name="totallyTimeSpent" value="11474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -282,7 +290,8 @@
     <MESSAGE value="update woocommerce gloabal head" />
     <MESSAGE value="add sidebar" />
     <MESSAGE value="add woocommerce sidebar" />
-    <option name="LAST_COMMIT_MESSAGE" value="add woocommerce sidebar" />
+    <MESSAGE value="check woocommerce sidebar now" />
+    <option name="LAST_COMMIT_MESSAGE" value="check woocommerce sidebar now" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -381,14 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -429,10 +430,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-start.php">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="47" column="98" lean-forward="false" selection-start-line="47" selection-start-column="98" selection-end-line="47" selection-end-column="98" />
+        <state relative-caret-position="-510">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -445,10 +446,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="48" column="56" lean-forward="false" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-end.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="53" column="43" lean-forward="false" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+        <state relative-caret-position="510">
+          <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
           <folding />
         </state>
       </provider>
