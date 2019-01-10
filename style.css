@@ -140,3 +140,7 @@ h5.name {
 .special{
 	color: #f7992e;
 }
+.product_meta span{
+    display: block;
+    margin-bottom: 10px;
+}
