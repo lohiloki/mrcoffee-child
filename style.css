@@ -20,9 +20,25 @@ a {
 .subscribe .bottom-title {
     font-size: 32px;
 }
+.mtb-10 {
+	margin-top: 10px !important;
+	margin-bottom: 10px !important;
+}
+.mtb-20 {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+.mtb-30 {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+.mtb-40 {
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+}
 .mtb-50 {
-	margin-top: 50px !important;
-	margin-bottom: 50px !important;
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
 }
 .top-bar-contacts li a {
 	color:#000;
