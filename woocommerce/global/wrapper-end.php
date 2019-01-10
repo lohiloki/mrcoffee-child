@@ -48,8 +48,10 @@ switch ( $template ) {
 		echo '</main></div>';
 		break;
 	default :
-        do_action( 'woocommerce_sidebar' );
+
         //get_sidebar( 'shop' );
-		echo '</main></div>';
+		echo '</main>';
+        do_action( 'woocommerce_sidebar' );
+		echo '</div>';
 		break;
 }
