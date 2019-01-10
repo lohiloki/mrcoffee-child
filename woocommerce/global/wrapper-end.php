@@ -48,6 +48,7 @@ switch ( $template ) {
 		echo '</main></div>';
 		break;
 	default :
+        get_sidebar( 'shop' );
 		echo '</main></div>';
 		break;
 }
