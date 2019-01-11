@@ -17,8 +17,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="52" column="25" lean-forward="false" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+            <state relative-caret-position="460">
+              <caret line="161" column="28" lean-forward="false" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -192,7 +192,7 @@
       <workItem from="1547019546410" duration="4010000" />
       <workItem from="1547096884943" duration="6585000" />
       <workItem from="1547188584618" duration="2000" />
-      <workItem from="1547194812484" duration="1356000" />
+      <workItem from="1547194812484" duration="1580000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1546980442019</created>
@@ -320,11 +320,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547122366698</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update display css">
+      <created>1547206874975</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1547206874975</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15808000" />
+    <option name="totallyTimeSpent" value="16032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -376,7 +383,8 @@
     <MESSAGE value="update single product margin top and bottom" />
     <MESSAGE value="update single product changes mtb20" />
     <MESSAGE value="product_meta span display block" />
-    <option name="LAST_COMMIT_MESSAGE" value="product_meta span display block" />
+    <MESSAGE value="update display css" />
+    <option name="LAST_COMMIT_MESSAGE" value="update display css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,8 +654,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="52" column="25" lean-forward="false" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        <state relative-caret-position="460">
+          <caret line="161" column="28" lean-forward="false" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
           <folding />
         </state>
       </provider>

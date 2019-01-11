@@ -157,6 +157,7 @@ h5.name {
     margin-bottom: 10px;
 }
 #center_logo_element .vc_custom_1547206562645{
-    height:100%;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
