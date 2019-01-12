@@ -187,3 +187,7 @@ label.screen-reader-text::after {
     content: ":";
     margin: 0 5px;
 }
+
+.sku_wrapper span.sku {
+    display: inline;
+}
