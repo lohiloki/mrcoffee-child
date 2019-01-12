@@ -17,6 +17,9 @@ Text Domain: mrcoffee
 a {
     color: #f7992e;
 }
+.fa, a.fa, i.fa{
+    font-faimly:fontAwesome;
+}
 .subscribe .bottom-title {
     font-size: 32px;
 }
