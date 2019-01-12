@@ -162,18 +162,28 @@ h5.name {
     justify-content: center;
 }
 
-.woocommerce div.product form.cart div.quantity {
-    float:none !important;
-    margin-bottom: 10px;
-}
 .add_to_cart_button i.fa {
     left: -6px;
     position: relative;
 }
-.screen-reader-text {
+
+.woocommerce div.product form.cart div.quantity {
+    float: none !important;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+label.screen-reader-text {
     clip: unset !important;
     position: relative !important;
     width: auto;
     height: auto;
     overflow: auto;
+    margin: 0 5px 0 0px;
+}
+
+label.screen-reader-text::after {
+    content: ":";
+    margin: 0 5px;
 }
