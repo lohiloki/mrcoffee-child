@@ -191,3 +191,20 @@ label.screen-reader-text::after {
 .sku_wrapper span.sku {
     display: inline;
 }
+
+.woocommerce div.product form.cart .variations label {
+    font-weight: 700;
+    color: black;
+    margin: 0;
+}
+
+.woocommerce div.product .product_title {
+    clear: none;
+    margin-top: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-size: 32px;
+    border-bottom: 2px dashed #f9a52e;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
