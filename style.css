@@ -164,4 +164,9 @@ h5.name {
 
 .woocommerce div.product form.cart div.quantity {
     float:none !important;
+    margin-bottom: 10px;
+}
+.add_to_cart_button i.fa {
+    left: -6px;
+    position: relative;
 }

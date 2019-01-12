@@ -17,8 +17,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="165" column="26" lean-forward="false" selection-start-line="165" selection-start-column="26" selection-end-line="165" selection-end-column="26" />
+            <state relative-caret-position="460">
+              <caret line="166" column="24" lean-forward="false" selection-start-line="166" selection-start-column="24" selection-end-line="166" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -194,7 +194,7 @@
       <workItem from="1547096884943" duration="6585000" />
       <workItem from="1547188584618" duration="2000" />
       <workItem from="1547194812484" duration="3444000" />
-      <workItem from="1547277706932" duration="220000" />
+      <workItem from="1547277706932" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1546980442019</created>
@@ -343,11 +343,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547277780563</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="remove float left for qty">
+      <created>1547277951570</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1547277951571</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18116000" />
+    <option name="totallyTimeSpent" value="18263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -402,7 +409,8 @@
     <MESSAGE value="update display css" />
     <MESSAGE value="center the logo" />
     <MESSAGE value="update gms" />
-    <option name="LAST_COMMIT_MESSAGE" value="update gms" />
+    <MESSAGE value="remove float left for qty" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove float left for qty" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -728,8 +736,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="165" column="26" lean-forward="false" selection-start-line="165" selection-start-column="26" selection-end-line="165" selection-end-column="26" />
+        <state relative-caret-position="460">
+          <caret line="166" column="24" lean-forward="false" selection-start-line="166" selection-start-column="24" selection-end-line="166" selection-end-column="24" />
           <folding />
         </state>
       </provider>
