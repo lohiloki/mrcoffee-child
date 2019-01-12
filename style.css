@@ -161,3 +161,7 @@ h5.name {
     align-items: center;
     justify-content: center;
 }
+
+.woocommerce div.product form.cart div.quantity {
+    float:none !important;
+}
