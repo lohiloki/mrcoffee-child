@@ -170,3 +170,10 @@ h5.name {
     left: -6px;
     position: relative;
 }
+.screen-reader-text {
+    clip: unset !important;
+    position: relative !important;
+    width: auto;
+    height: auto;
+    overflow: auto;
+}
