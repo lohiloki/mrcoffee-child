@@ -18,7 +18,7 @@ a {
     color: #f7992e;
 }
 .fa, a.fa, i.fa{
-    font-family:fontAwesome;
+    font-family:fontAwesome !important;
 }
 .subscribe .bottom-title {
     font-size: 32px;
@@ -210,4 +210,19 @@ label.screen-reader-text::after {
     border-bottom: 2px dashed #f9a52e;
     margin-bottom: 20px;
     padding-bottom: 10px;
+}
+
+h2.woocommerce-loop-product__title::before {
+    bottom:0px !important;
+}
+.woocommerce ul.products li.product .price {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.woocommerce ul.products li.product a.button {
+    text-decoration: none;
+    display: block;
+    text-align: center;
 }
