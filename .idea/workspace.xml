@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="">
+    <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
@@ -17,8 +17,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="232" column="26" lean-forward="true" selection-start-line="232" selection-start-column="26" selection-end-line="232" selection-end-column="26" />
+            <state relative-caret-position="528">
+              <caret line="245" column="1" lean-forward="false" selection-start-line="245" selection-start-column="1" selection-end-line="245" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -195,7 +195,7 @@
       <workItem from="1547188584618" duration="2000" />
       <workItem from="1547194812484" duration="3444000" />
       <workItem from="1547277706932" duration="3554000" />
-      <workItem from="1547289262917" duration="3894000" />
+      <workItem from="1547289262917" duration="4736000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1546980442019</created>
@@ -428,11 +428,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547294047670</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update info">
+      <created>1547298671713</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1547298671713</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25344000" />
+    <option name="totallyTimeSpent" value="26186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -467,7 +474,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add sidebar" />
     <MESSAGE value="add woocommerce sidebar" />
     <MESSAGE value="check woocommerce sidebar now" />
     <MESSAGE value="update container class woocommerce template" />
@@ -492,7 +498,8 @@
     <MESSAGE value="update the family name" />
     <MESSAGE value="update css" />
     <MESSAGE value="update woocommrce css" />
-    <option name="LAST_COMMIT_MESSAGE" value="update woocommrce css" />
+    <MESSAGE value="update info" />
+    <option name="LAST_COMMIT_MESSAGE" value="update info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -874,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="232" column="26" lean-forward="true" selection-start-line="232" selection-start-column="26" selection-end-line="232" selection-end-column="26" />
+        <state relative-caret-position="528">
+          <caret line="245" column="1" lean-forward="false" selection-start-line="245" selection-start-column="1" selection-end-line="245" selection-end-column="1" />
           <folding />
         </state>
       </provider>
