@@ -235,12 +235,6 @@ a.checkout-button.btn.btn-default.alt.wc-forward {
     height: 40px;
     margin: 0;
 }
-a.checkout-button.btn.btn-default.alt.wc-forward {
-    font-weight: bold;
-    font-size: 18px !important;
-    color: black;
-    display: inline-block;
-    padding: 5px !important;
-    height: 40px;
-    margin: 0;
+.woocommerce-Tabs-panel p:last-child{
+    magin:0;
 }
