@@ -238,3 +238,10 @@ a.checkout-button.btn.btn-default.alt.wc-forward {
 .woocommerce-Tabs-panel p:last-child{
     magin:0;
 }
+.outofstock a.woocommerce-LoopProduct-link.woocommerce-loop-product__link::after {
+    content: "Coming Soon";
+    display: block;
+    text-align: CENTER;
+    color: #77a464;
+    font-size: 0.856em;
+}
