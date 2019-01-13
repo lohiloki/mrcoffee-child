@@ -51,7 +51,9 @@ switch ( $template ) {
 
         //get_sidebar( 'shop' );
 		echo '</main>';
-       // do_action( 'woocommerce_sidebar' );
+        if(is_product()){
+            do_action( 'woocommerce_sidebar' );
+        }
         echo "</div></div>";
 		echo '</div>';
 		break;

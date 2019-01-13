@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/woocommerce/global/wrapper-start.php" afterPath="$PROJECT_DIR$/woocommerce/global/wrapper-start.php" />
+      <change beforePath="$PROJECT_DIR$/woocommerce/global/wrapper-end.php" afterPath="$PROJECT_DIR$/woocommerce/global/wrapper-end.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wrapper-start.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wrapper-start.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-start.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="53" column="9" lean-forward="false" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wrapper-end.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-end.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -86,9 +96,9 @@
         <option value="$PROJECT_DIR$/woocommerce/archive-product.php" />
         <option value="$PROJECT_DIR$/woocommerce/single-product.php" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/woocommerce/global/wrapper-end.php" />
         <option value="$PROJECT_DIR$/functions.php" />
         <option value="$PROJECT_DIR$/woocommerce/global/wrapper-start.php" />
+        <option value="$PROJECT_DIR$/woocommerce/global/wrapper-end.php" />
       </list>
     </option>
   </component>
@@ -188,7 +198,7 @@
       <workItem from="1547277706932" duration="3554000" />
       <workItem from="1547289262917" duration="4962000" />
       <workItem from="1547357320818" duration="793000" />
-      <workItem from="1547365046538" duration="2225000" />
+      <workItem from="1547365046538" duration="2290000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1546980442019</created>
@@ -456,11 +466,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547365848419</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="single product page header">
+      <created>1547368455770</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1547368455770</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29430000" />
+    <option name="totallyTimeSpent" value="29495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -495,7 +512,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="update container class woocommerce template" />
     <MESSAGE value="show 3 columns in a row" />
     <MESSAGE value="customize woocommerce archive page" />
     <MESSAGE value="update new defined css" />
@@ -520,7 +536,8 @@
     <MESSAGE value="update css" />
     <MESSAGE value="update columns" />
     <MESSAGE value="remove columns from archive page" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove columns from archive page" />
+    <MESSAGE value="single product page header" />
+    <option name="LAST_COMMIT_MESSAGE" value="single product page header" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -840,14 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-end.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="48" column="14" lean-forward="true" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/woocommerce/archive-product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-407">
@@ -908,6 +917,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="53" column="9" lean-forward="false" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce/global/wrapper-end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="55" column="9" lean-forward="false" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
           <folding />
         </state>
       </provider>
