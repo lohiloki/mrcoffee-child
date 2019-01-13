@@ -17,8 +17,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+            <state relative-caret-position="511">
+              <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -199,7 +199,7 @@
       <workItem from="1547289262917" duration="4962000" />
       <workItem from="1547357320818" duration="793000" />
       <workItem from="1547365046538" duration="2840000" />
-      <workItem from="1547373840243" duration="680000" />
+      <workItem from="1547373840243" duration="1561000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1546980442019</created>
@@ -488,11 +488,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547369040830</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="update coming soon content">
+      <created>1547374546261</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1547374546261</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30725000" />
+    <option name="totallyTimeSpent" value="31606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -527,7 +534,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="update new defined css" />
     <MESSAGE value="update single product margin top and bottom" />
     <MESSAGE value="update single product changes mtb20" />
     <MESSAGE value="product_meta span display block" />
@@ -552,7 +558,8 @@
     <MESSAGE value="single product page header" />
     <MESSAGE value="update sidebar to single product page" />
     <MESSAGE value="update outofstock coming soon content" />
-    <option name="LAST_COMMIT_MESSAGE" value="update outofstock coming soon content" />
+    <MESSAGE value="update coming soon content" />
+    <option name="LAST_COMMIT_MESSAGE" value="update coming soon content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -878,8 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        <state relative-caret-position="511">
+          <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
           <folding />
         </state>
       </provider>

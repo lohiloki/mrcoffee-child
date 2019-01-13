@@ -248,3 +248,13 @@ li.outofstock a.woocommerce-LoopProduct-link.woocommerce-loop-product__link::aft
     margin-bottom: .5em;
     font-size: .857em;
 }
+.career_info {
+    margin-bottom: 20px;
+}
+
+.career_info li{
+    list-style:none;
+    content: "\f0a4";
+    font-family: fontAwesome;
+    margin-right: 10px;
+}
