@@ -21,9 +21,11 @@ if ( !function_exists( 'mrcoffee_enqueue_child_theme_style' ) ) {
  * Add your custom functions below
  */
 
-add_filter('loop_shop_columns', 'loop_columns');
+/*
+ add_filter('loop_shop_columns', 'loop_columns');
 if (!function_exists('loop_columns')) {
     function loop_columns() {
         return 3; // 3 products per row
     }
 }
+*/
