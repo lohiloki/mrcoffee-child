@@ -47,6 +47,10 @@ switch ( $template ) {
 	default :
 		echo '<div id="primary" class="content-area row">';
 		echo '<div class="container"><div class="row">';
-		echo '<main id="main" class="site-main col-md-12" role="main">';
+		if(is_product()){
+            echo '<main id="main" class="site-main col-md-8" role="main">';
+        } else {
+            echo '<main id="main" class="site-main col-md-12" role="main">';
+        }
 		break;
 }
