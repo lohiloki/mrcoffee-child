@@ -260,6 +260,6 @@ li.outofstock a.woocommerce-LoopProduct-link.woocommerce-loop-product__link::aft
     content: "\f0a4";
     margin-right: 10px;
 }
-.woocommerce-cart-form__cart-item.cart_item .product-quantity .quantity-nav{
-    display:block;
+.woocommerce-cart-form__cart-item.cart_item .product-quantity .quantity-nav {
+    display: block;
 }

@@ -17,8 +17,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="262" column="1" lean-forward="false" selection-start-line="262" selection-start-column="1" selection-end-line="262" selection-end-column="1" />
+            <state relative-caret-position="919">
+              <caret line="264" column="1" lean-forward="false" selection-start-line="264" selection-start-column="1" selection-end-line="264" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -151,14 +151,7 @@
       <workItem from="1547365046538" duration="2840000" />
       <workItem from="1547373840243" duration="2376000" />
       <workItem from="1547914962032" duration="164000" />
-      <workItem from="1547915021152" duration="1037000" />
-    </task>
-    <task id="LOCAL-00002" summary="create woocommerce.php">
-      <created>1547020719189</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1547020719189</updated>
+      <workItem from="1547915021152" duration="1183000" />
     </task>
     <task id="LOCAL-00003" summary="upload woocommerce.php file">
       <created>1547020831929</created>
@@ -496,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547916342331</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="update quantity nav now">
+      <created>1547916461135</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1547916461135</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33622000" />
+    <option name="totallyTimeSpent" value="33768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -535,7 +535,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="product_meta span display block" />
     <MESSAGE value="update display css" />
     <MESSAGE value="center the logo" />
     <MESSAGE value="update gms" />
@@ -560,7 +559,8 @@
     <MESSAGE value="update coming soon content" />
     <MESSAGE value="update out of stock" />
     <MESSAGE value="update quantity nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="update quantity nav" />
+    <MESSAGE value="update quantity nav now" />
+    <option name="LAST_COMMIT_MESSAGE" value="update quantity nav now" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -912,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="262" column="1" lean-forward="false" selection-start-line="262" selection-start-column="1" selection-end-line="262" selection-end-column="1" />
+        <state relative-caret-position="919">
+          <caret line="264" column="1" lean-forward="false" selection-start-line="264" selection-start-column="1" selection-end-line="264" selection-end-column="1" />
           <folding />
         </state>
       </provider>
