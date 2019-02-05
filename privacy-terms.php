@@ -7,7 +7,7 @@
  */
 
 /*
-*Template Name: Full width PageFull width PageFull width Page
+*Template Name: Privacy Terms Page
 */
 /**
  * The template for displaying pages

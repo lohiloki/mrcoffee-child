@@ -7,7 +7,7 @@
  */
 
 /*
-*Template Name: Full width PageFull width PageFull width Page
+*Template Name: Full width Page
 */
 /**
  * The template for displaying pages
