@@ -295,5 +295,5 @@ li.outofstock a.woocommerce-LoopProduct-link.woocommerce-loop-product__link::aft
 }
 
 .copyrights a:hover{
-    color:#f7992e;
+    color:#f7992e !important;
 }
