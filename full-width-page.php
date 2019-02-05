@@ -35,7 +35,6 @@ get_header(); ?>
             <div class="entry-content container">
                 <div class="row">
                     <div class="col-md-12">
-                        <?php the_title(); ?>
                         <?php the_content(); ?>
                     </div>
                 </div>
