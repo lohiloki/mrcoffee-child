@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="update quantity nav now">
+    <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="update full width page template">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/full-width-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/full-width-page.php" afterDir="false" />
     </list>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/full-width-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="255">
+              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
               <folding>
                 <element signature="e#97#209#0#PHP" />
               </folding>
@@ -138,14 +138,7 @@
       <workItem from="1547914962032" duration="164000" />
       <workItem from="1547915021152" duration="1183000" />
       <workItem from="1549352506505" duration="93000" />
-      <workItem from="1549380239091" duration="1091000" />
-    </task>
-    <task id="LOCAL-00005" summary="update">
-      <created>1547030642205</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1547030642205</updated>
+      <workItem from="1549380239091" duration="1210000" />
     </task>
     <task id="LOCAL-00006" summary="update index">
       <created>1547118839930</created>
@@ -483,11 +476,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549381184231</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="update full width page template">
+      <created>1549381348240</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1549381348240</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34952000" />
+    <option name="totallyTimeSpent" value="35071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -520,7 +520,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="update display css" />
     <MESSAGE value="center the logo" />
     <MESSAGE value="update gms" />
     <MESSAGE value="remove float left for qty" />
@@ -545,7 +544,8 @@
     <MESSAGE value="update out of stock" />
     <MESSAGE value="update quantity nav" />
     <MESSAGE value="update quantity nav now" />
-    <option name="LAST_COMMIT_MESSAGE" value="update quantity nav now" />
+    <MESSAGE value="update full width page template" />
+    <option name="LAST_COMMIT_MESSAGE" value="update full width page template" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -639,8 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/full-width-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
           <folding>
             <element signature="e#97#209#0#PHP" />
           </folding>

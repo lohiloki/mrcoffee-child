@@ -28,7 +28,6 @@ get_header(); ?>
     while ( have_posts() ) : the_post();
         /** Display Header for Page*/
         get_template_part( 'template-parts/header/header', 'head' ); ?>
-
         <!-- PAGE CONTENT -->
         <article id="post-<?php the_ID(); ?>" >
             <!-- .entry-content -->
