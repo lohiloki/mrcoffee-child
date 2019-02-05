@@ -264,6 +264,7 @@ li.outofstock a.woocommerce-LoopProduct-link.woocommerce-loop-product__link::aft
     display: block;
 }
 .privacy-terms{
+    margin-top:20px;
     margin-bottom: 30px;
 }
 .privacy-terms h6, .privacy-terms h5, .privacy-terms h4, .privacy-terms h3, .privacy-terms h2, .privacy-terms h1 {
