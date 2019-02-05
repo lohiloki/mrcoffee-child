@@ -287,9 +287,13 @@ li.outofstock a.woocommerce-LoopProduct-link.woocommerce-loop-product__link::aft
 }
 
 .copyrights {
-    color:#ffffff;
+    color:#ffffff !important;
 }
 
 .copyrights a{
+    color:#ffffff !important;
+}
+
+.copyrights a:hover{
     color:#f7992e;
 }
