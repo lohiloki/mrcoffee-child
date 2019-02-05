@@ -19,6 +19,7 @@
 
 get_header(); ?>
 
+
 <?php
 /** Display Slider*/
 get_template_part( 'template-parts/blocks/block', 'slider' ); ?>

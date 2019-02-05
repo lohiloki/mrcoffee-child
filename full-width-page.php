@@ -31,7 +31,7 @@ get_header(); ?>
         <!-- PAGE CONTENT -->
         <article id="post-<?php the_ID(); ?>" >
             <!-- .entry-content -->
-            <div class="entry-content container heading">
+            <div class="entry-content container full-page">
                 <div class="row">
                     <div class="col-md-12">
                         <?php the_content(); ?>
