@@ -285,3 +285,11 @@ li.outofstock a.woocommerce-LoopProduct-link.woocommerce-loop-product__link::aft
 .privacy-terms li {
     margin-bottom: 5px;
 }
+
+.copyrights {
+    color:#ffffff;
+}
+
+.copyrights a{
+    color:#f7992e;
+}
