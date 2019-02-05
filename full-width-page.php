@@ -30,7 +30,7 @@ get_header(); ?>
         get_template_part( 'template-parts/header/header', 'head' ); ?>
 
         <!-- PAGE CONTENT -->
-        <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+        <article id="post-<?php the_ID(); ?>" >
             <!-- .entry-content -->
             <div class="entry-content container">
                 <div class="row">

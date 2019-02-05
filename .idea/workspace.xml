@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="">
+    <list default="true" id="644b358f-8000-4749-9497-58c5ff23f7f9" name="Default" comment="update quantity nav now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-width-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/full-width-page.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/full-width-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+            <state relative-caret-position="204">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
               <folding>
                 <element signature="e#97#209#0#PHP" />
               </folding>
@@ -137,21 +138,7 @@
       <workItem from="1547914962032" duration="164000" />
       <workItem from="1547915021152" duration="1183000" />
       <workItem from="1549352506505" duration="93000" />
-      <workItem from="1549380239091" duration="285000" />
-    </task>
-    <task id="LOCAL-00003" summary="upload woocommerce.php file">
-      <created>1547020831929</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1547020831929</updated>
-    </task>
-    <task id="LOCAL-00004" summary="remove woocommerce.php">
-      <created>1547026142297</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1547026142297</updated>
+      <workItem from="1549380239091" duration="1091000" />
     </task>
     <task id="LOCAL-00005" summary="update">
       <created>1547030642205</created>
@@ -482,11 +469,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547916461135</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="update quantity nav now">
+      <created>1549380554024</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1549380554025</updated>
+    </task>
+    <task id="LOCAL-00053" summary="update quantity nav now">
+      <created>1549381184231</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1549381184231</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34146000" />
+    <option name="totallyTimeSpent" value="34952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -638,8 +639,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/full-width-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+        <state relative-caret-position="204">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
           <folding>
             <element signature="e#97#209#0#PHP" />
           </folding>
