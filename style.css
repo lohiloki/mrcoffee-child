@@ -263,6 +263,9 @@ li.outofstock a.woocommerce-LoopProduct-link.woocommerce-loop-product__link::aft
 .woocommerce-cart-form__cart-item.cart_item .product-quantity .quantity-nav {
     display: block;
 }
+.privacy-terms{
+    margin-bottom: 30px;
+}
 .privacy-terms h6, .privacy-terms h5, .privacy-terms h4, .privacy-terms h3, .privacy-terms h2, .privacy-terms h1 {
     text-align: left;
 }
